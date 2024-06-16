@@ -13,9 +13,9 @@ PySpark example on jupyter notebook
 
 3. Install Anaconda Jupyter Notebook
 
-4. Pip install libraries from requirements.txt file.
+4. Install MSSQL server and restore AdventureWorksDW2019 database.
 
-5. Install MSSQL server and restore AdventureWorksDW2019 database.
+5. Install Postgresql server.
 
-6. Install Postgresql server.
+6. Pip install libraries from requirements.txt file.
 
